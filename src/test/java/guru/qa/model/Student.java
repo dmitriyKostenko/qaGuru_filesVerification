@@ -2,11 +2,11 @@ package guru.qa.model;
 
 import java.util.List;
 
-public class Teacher {
+public class Student {
 
     public String name;
     public int age;
-    public boolean isGoodTeacher;
+    public boolean isGoodStudent;
     public List<String> lessons;
     public Passport passport;
 

@@ -1,7 +1,7 @@
 {
   "name": "Dmitrii",
-  "age": 33,
-  "isGoodTeacher": true,
+  "age": 37,
+  "isGoodStudent": true,
   "lessons": ["JUnit 5", "Files"],
   "passport" : {
     "number": 123456,
